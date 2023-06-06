@@ -1,0 +1,19 @@
+ {
+    "Usuarios":[
+                 {
+                    "id": 1,
+                    "nombre" : "Alejo",
+                    "email" : "prueba@gmail.com", 
+                    "user_name" : "ruizalejo",
+                    "password" : "827ccb0eea8a706c4c34a16891f84e7b"    
+                },
+                {
+                    "id": 2,
+                    "nombre" : "Muelsa",
+                    "email" : "prueba2@gmail.com", 
+                    "user_name" : "papitas",
+                    "password" : "968bfadd7c1fb565e8cb8eca3a2d938f"    
+                }
+    
+    ]
+ }
